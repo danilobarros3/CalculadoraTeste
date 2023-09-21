@@ -1,29 +1,42 @@
-# CalculadoraTeste
-
 # Calculadora
 
-Este projeto é uma calculadora simples que realiza operações matemáticas básicas, como soma, subtração, multiplicação e divisão. Ele foi desenvolvido em Python e consiste em várias classes para cada operação, bem como classes de teste para garantir que as operações funcionem corretamente.
+Este projeto consiste em uma calculadora simples em Java que realiza operações matemáticas básicas, como soma, subtração, multiplicação e divisão.
 
 ## O que o projeto faz
 
-O projeto Calculadora permite que os usuários realizem as seguintes operações matemáticas:
-
-- Soma
-- Subtração
-- Multiplicação
-- Divisão
-
-Cada operação é executada em sua classe correspondente, garantindo a modularidade do código e a facilidade de manutenção.
+O projeto oferece uma interface para realizar operações matemáticas básicas, incluindo soma, subtração, multiplicação e divisão.
 
 ## Por que o projeto é útil
 
-Este projeto é útil para realizar cálculos matemáticos simples de forma eficiente e modular. Ele pode ser uma ótima base para projetos mais complexos que envolvam cálculos matemáticos, pois fornece uma estrutura organizada e fácil de entender.
+A calculadora é útil para realizar cálculos matemáticos de forma rápida e conveniente.
 
 ## Como os usuários podem começar a usar o projeto
 
-Para começar a usar o projeto Calculadora, siga estas etapas:
+1. Clone o repositório para sua máquina local.
+2. Abra o projeto em sua IDE favorita.
+3. Compile e execute a classe de teste correspondente à operação desejada (por exemplo, `TestSoma` para a soma).
+4. Siga as instruções fornecidas na classe de teste para inserir os valores e visualizar o resultado.
 
-1. Clone o repositório do projeto para o seu ambiente local:
+## Onde os usuários podem obter ajuda com seu projeto
 
-   ```bash
-   git clone https://github.com/seu-usuario/calculadora.git
+Se você precisar de ajuda com este projeto, sinta-se à vontade para abrir uma "issue" neste repositório ou entrar em contato com o mantenedor do projeto.
+
+## Quem mantém e contribui com o projeto
+
+Este projeto é mantido por Danilo Barros. Contribuições são bem-vindas através de pull requests neste repositório.
+
+### Classes disponíveis
+
+- `Soma`: Realiza a operação de soma.
+- `Subtracao`: Realiza a operação de subtração.
+- `Multiplicacao`: Realiza a operação de multiplicação.
+- `Divisao`: Realiza a operação de divisão.
+
+### Classes de teste
+
+- `TestSoma`: Classe de teste para a operação de soma.
+- `TestSubtracao`: Classe de teste para a operação de subtração.
+- `TestMultiplicacao`: Classe de teste para a operação de multiplicação.
+- `TestDivisao`: Classe de teste para a operação de divisão.
+
+As classes de teste contêm cenários previstos para verificar o funcionamento correto das operações.
