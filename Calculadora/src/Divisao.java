@@ -8,7 +8,7 @@
  *
  * @author danilobarros
  */
-//Dividendo o primeiro numero com o segundo
+//Dividindo primeiro número com o segundo número
 public class Divisao {
 
     public int div (int primeiro, int segundo){

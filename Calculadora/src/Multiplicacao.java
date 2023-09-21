@@ -8,7 +8,7 @@
  *
  * @author danilobarros
  */
-//Multiplicando primeiro numero e segundo numero
+//Multiplicando primeiro número com o segundo número
 public class Multiplicacao {
 
     public int multi (int primeiro, int segundo){
