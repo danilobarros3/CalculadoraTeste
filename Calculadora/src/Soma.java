@@ -8,6 +8,7 @@
  *
  * @author danilobarros
  */
+//Somando primeiro número com o segundo número
 public class Soma {
 
     public int somar (int primeiro, int segundo){
