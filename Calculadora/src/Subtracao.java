@@ -8,6 +8,7 @@
  *
  * @author danilobarros
  */
+//Subtraindo primeiro número com o segundo número
 public class Subtracao {
 
     public int sub (int primeiro, int segundo){
